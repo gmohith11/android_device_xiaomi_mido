@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo cm_mido-$var
+  add_lunch_combo dot_mido-$var
 done
